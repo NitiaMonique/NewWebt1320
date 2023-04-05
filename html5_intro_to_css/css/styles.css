@@ -1,3 +1,66 @@
-html(
-    background-color:
-)
+html {
+    background-color: #27708C;
+}
+
+body {
+    background-color: #75B2BF;
+    width: 990px;
+    margin: 10px auto;
+    text-align: center;
+}
+    
+header {
+    padding: 20%px;
+    text-align: center;
+}
+
+header img {
+    display: block;
+    margin: 20px auto;
+    width: 30%;
+    text-align: center;
+}
+
+nav {
+    background-color: #D99F6C;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    color: #D99F6C;
+    font-size: 18px;
+    margin: 0 20px;
+}
+
+nav a:hover {
+    color: #D99F6C;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+main img {
+    display: block;
+    margin: 20px auto;
+    width: 25%;
+}
+footer {
+    background-color: #D99F6C;
+    text-align: center;
+    padding: 40px 0;
+}
+
+a { 
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+h1, h2, h3 {
+    color: white;
+}
